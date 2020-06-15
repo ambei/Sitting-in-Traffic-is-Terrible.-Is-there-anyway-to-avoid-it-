@@ -1,4 +1,5 @@
 # Sitting-in-Traffic-is-Terrible.-Is-there-anyway-to-avoid-it-
+## Please click on .ipynb file to read the project
 The goal of our research project is to determine the hotspots for accidents and traffic. We hope to use a clustering classifier to determine the causes and severities of accidents. The dataset is [US Accidents from kaggle.](https://www.kaggle.com/sobhanmoosavi/us-accidents)  
 ## Data Summary  
 ID - This is a unique identifier of the accident record.  
