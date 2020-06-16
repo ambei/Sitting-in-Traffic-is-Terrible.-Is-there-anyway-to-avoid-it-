@@ -52,7 +52,7 @@ Civil_TwilightShows the period of day (i.e. day or night) based on civil twiligh
 Nautical_TwilightShows the period of day (i.e. day or night) based on nautical twilight.  
 Astronomical_TwilightShows the period of day (i.e. day or night) based on astronomical twilight.  
 ## Authors
-the list of [contributors](https://github.com/rtora/135_Project/contributors) who participated in this project.
+the list of [contributors](https://github.com/rtora/Sitting-in-Traffic-is-Terrible.-Is-there-anyway-to-avoid-it-/contributors) who participated in this project.
 ## Acknowledgments  
 Moosavi, Sobhan, Mohammad Hossein Samavatian, Srinivasan Parthasarathy, and Rajiv Ramnath. [“A Countrywide Traffic Accident Dataset.”](https://arxiv.org/abs/1906.05409), 2019.  
 Moosavi, Sobhan, Mohammad Hossein Samavatian, Srinivasan Parthasarathy, Radu Teodorescu, and Rajiv Ramnath. ["Accident Risk Prediction based on Heterogeneous Sparse Data: New Dataset and Insights."](https://arxiv.org/abs/1909.09638) In proceedings of the 27th ACM SIGSPATIAL International Conference on Advances in Geographic Information Systems, ACM, 2019.  
