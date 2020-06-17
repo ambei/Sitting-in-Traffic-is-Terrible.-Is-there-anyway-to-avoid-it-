@@ -51,8 +51,12 @@ Sunrise_SunsetShows the period of day (i.e. day or night) based on sunrise/sunse
 Civil_TwilightShows the period of day (i.e. day or night) based on civil twilight.  
 Nautical_TwilightShows the period of day (i.e. day or night) based on nautical twilight.  
 Astronomical_TwilightShows the period of day (i.e. day or night) based on astronomical twilight.  
-## Authors
-the list of [contributors](https://github.com/rtora/Sitting-in-Traffic-is-Terrible.-Is-there-anyway-to-avoid-it-/contributors) who participated in this project.
+## Contributors
+
+| **Chelsea Chen** | **Dorothy Li** | **Romtin Toranji** | **Sergio Zambrano**| 
+|---|---|---|---|
+| <a href="https://github.com/Chelsea-hzc" target="_blank">`Github`</a> | <a href="https://github.com/dorothyli">`Github`</a>  | <a href="https://github.com/rtora" target="_blank">`Github`</a> |  <a href="https://github.com/chilledapplesauce" target="_blank">`Github`</a> |
+
 ## Acknowledgments  
 Moosavi, Sobhan, Mohammad Hossein Samavatian, Srinivasan Parthasarathy, and Rajiv Ramnath. [“A Countrywide Traffic Accident Dataset.”](https://arxiv.org/abs/1906.05409), 2019.  
 Moosavi, Sobhan, Mohammad Hossein Samavatian, Srinivasan Parthasarathy, Radu Teodorescu, and Rajiv Ramnath. ["Accident Risk Prediction based on Heterogeneous Sparse Data: New Dataset and Insights."](https://arxiv.org/abs/1909.09638) In proceedings of the 27th ACM SIGSPATIAL International Conference on Advances in Geographic Information Systems, ACM, 2019.  
